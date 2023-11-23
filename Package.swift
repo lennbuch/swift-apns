@@ -14,6 +14,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+// swift-tools-version:5.9
 import PackageDescription
 
 let package = Package(
